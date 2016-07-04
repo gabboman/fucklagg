@@ -1,4 +1,7 @@
-name: SpigotBlankPlugin
+name: fuckLagg
 main: com.gabboman.fucklagg.FuckLagg
 version: 0.0
 commands:
+  calclagg:
+    description: Finds source of the lag
+    usage: /calclagg 
