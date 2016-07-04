@@ -1,0 +1,4 @@
+name: SpigotBlankPlugin
+main: com.gabboman.fucklagg.FuckLagg
+version: 0.0
+commands:
